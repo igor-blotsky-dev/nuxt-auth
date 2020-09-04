@@ -1,0 +1,1 @@
+client https://github.com/igor-blotsky-dev/vue-passport-auth
